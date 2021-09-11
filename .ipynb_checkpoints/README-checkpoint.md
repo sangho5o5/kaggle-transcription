@@ -4,6 +4,11 @@
 - 필사 커널을 설명 해주는 이유한님의 유투브 [링크](https://www.youtube.com/channel/UC--LgKcZVgffjsxudoXg5pQ)
 
 ---
+# 필사 방법
+- 해당 코드를 쓴 목적이 무엇인지를 설명한다.
+- 해당 메소드와 연산식을 쓴 이유를 설명한다.
+- 생소한 주제는 검색해서 내용을 추가한다.
+---
 # 필사 리스트
 ## 1. [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 - [필사한 노트북](1.Titanic/titanic-1.ipynb)
