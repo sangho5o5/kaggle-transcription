@@ -5,6 +5,6 @@
 ---
 # 필사 리스트
 ## 1. [Titanic - Machine Learning from Disaster]((https://www.kaggle.com/c/titanic))
-- [필사한 노트북](~/1.Titanic/titanic-1.ipynb)
+- [필사한 노트북](1.Titanic/titanic-1.ipynb)
 - [필사 대상 튜토리얼 1](https://kaggle-kr.tistory.com/17?category=868316)
 - [필사 대상 튜토리얼 2](https://kaggle-kr.tistory.com/17?category=868316)
