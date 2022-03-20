@@ -18,3 +18,7 @@
 ## 2. [Porto Seguro’s Safe Driver Prediction](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction)
 - [필사 노트북](2-Safe-Driver/safe-driver.ipynb)
 - [필사 대상 1](https://www.kaggle.com/bertcarremans/data-preparation-exploration)
+
+## 3. [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk)
+- [필사 노트북](3-Home-Credit/home-credit-1-7th-place.ipynb)
+- [필사 대상 1](https://www.kaggle.com/code/jsaguiar/lightgbm-7th-place-solution/script)
